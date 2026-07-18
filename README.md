@@ -1,6 +1,7 @@
 # 📊 Vrinda Store Annual Sales Report 2026
 
-![Dashboard Preview](Dashboard.png)
+<img width="1742" height="682" alt="image" src="https://github.com/user-attachments/assets/9ea560f7-f334-4ec5-9a46-5fa0968c968a" />
+
 
 ## 📌 Overview
 
